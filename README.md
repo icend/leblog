@@ -2,6 +2,8 @@
 my owner blog
 
 [谷歌](https://www.google.com.hk/)
+[24k导航]([www.24kdh.com](https://www.24kdh.com/))
+[推特](https://twitter.com/home)
 
 
 微信在windows机上双（多）开的批处理.bat文件
@@ -17,5 +19,5 @@ exit
 
 在windows上启动chrome并打开指定网页的.bat文件
 ~~~
-start chrome.exe https://map.baidu.com/@12859336.691174982,4677131.795872711,14.39z https://www.toutiao.com/
+start chrome.exe https://www.24kdh.com/ https://www.google.com.hk/ https://twitter.com/
 ~~~
